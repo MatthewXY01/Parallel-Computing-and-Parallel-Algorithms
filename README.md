@@ -1,6 +1,6 @@
 # Parallel Computing and Parallel Algorithms
 
-Assignments &amp; Project of CS7344:  Parallel Computing and Parallel Algorithms [2021Spring]
+Assignments &amp; Project of CS7344:  Parallel Computing and Parallel Algorithms [2021 Spring]
 
 ## Assignments
 
